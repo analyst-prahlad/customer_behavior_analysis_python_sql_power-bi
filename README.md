@@ -1,6 +1,6 @@
 # Customer Shopping Behavior Analysis
 
-## Project Overview
+## Project Overvie
 Understanding customer purchasing behavior is critical for businesses to optimize marketing strategies, improve product positioning, and increase revenue.
 
 This project analyzes **3,900 customer transactions** across multiple product categories to uncover patterns in purchasing behavior, customer segmentation, product popularity, and subscription trends.
